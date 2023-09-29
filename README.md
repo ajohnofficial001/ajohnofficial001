@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me LinkedIn- https://www.linkedin.com/in/john-adeyemo-5a0338207/ 
 My skillsets
--📃 Languages: HTML, CSS, JavaScipt
+-📃 Languages: HTML, CSS, JavaScipt, Java, Python
 -📗 Frameworks: React Js, React Query, Axios, styled-component, Bootstrap( with Saas)
 
 <!---
