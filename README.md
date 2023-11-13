@@ -1,18 +1,19 @@
-- 👋 Hi, I’m John Adeyemo
-- 👀 I’m interested in coding and robotics.
+<!---  👋 Hi, I’m John Adeyemo
+ 👀 I’m interested in coding and robotics.
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me LinkedIn- https://www.linkedin.com/in/john-adeyemo-5a0338207/ 
 My skillsets
 -📃 Languages: HTML, CSS, JavaScipt, Java, Python
 -📗 Frameworks: React Js, React Query, Axios, styled-component, Bootstrap( with Saas)
+--->
 
 <!---
 ajohnofficial001/ajohnofficial001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm John Adeyemo</h1>
-<h3 align="center">𝕀'𝕞 𝕒𝕟 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕥𝕚𝕒𝕝 𝕝𝕖𝕒𝕣𝕟𝕖𝕣 𝕨𝕚𝕥𝕙 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟 𝕗𝕠𝕣 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕒𝕟𝕕 𝕔𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕤𝕔𝕚𝕖𝕟𝕔𝕖. 𝕀 𝕒𝕞 𝕕𝕣𝕚𝕧𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕪 𝕥𝕠 𝕤𝕠𝕝𝕧𝕖 𝕡𝕣𝕠𝕓𝕝𝕖𝕞𝕤 𝕒𝕟𝕕 𝕙𝕖𝕝𝕡 𝕠𝕥𝕙𝕖𝕣𝕤.</h3>
+<h3 align="center">𝕀'𝕞 𝕒𝕟 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕥𝕚𝕒𝕝 𝕝𝕖𝕒𝕣𝕟𝕖𝕣 𝕨𝕚𝕥𝕙 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟 𝕗𝕠𝕣 𝕖𝕟𝕘𝕚𝕟𝕖𝕖𝕣𝕚𝕟𝕘 𝕒𝕟𝕕 𝕔𝕠𝕞𝕡𝕦𝕥𝕖𝕣 𝕤𝕔𝕚𝕖𝕟𝕔𝕖. 𝕀 𝕒𝕞 𝕕𝕣𝕚𝕧𝕖𝕟 𝕓𝕪 𝕥𝕙𝕖 𝕠𝕡𝕡𝕠𝕣𝕥𝕦𝕟𝕚𝕥𝕪 𝕥𝕠 𝕤𝕠𝕝𝕧𝕖 𝕡𝕣𝕠𝕓𝕝𝕖𝕞𝕤 𝕒𝕟𝕕 𝕙𝕖𝕝𝕡 𝕠𝕥𝕙𝕖𝕣𝕤. I'm interested in coding and robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajohnofficial001&label=Profile%20views&color=0e75b6&style=flat" alt="ajohnofficial001" /> </p>
 
